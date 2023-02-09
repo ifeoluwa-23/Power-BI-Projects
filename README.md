@@ -42,6 +42,28 @@
  ```
  
  ![Analytics](https://user-images.githubusercontent.com/123111536/217763857-3f8dbb17-a0fd-469a-8214-13cb79c01512.jpg)
+ 
+ 
+   - **Customer Satisfaction Report** (3 Dashboards):
+
+  *View the Dashboards*: [HERE](https://app.powerbi.com/view?r=eyJrIjoiZTUwZWU2YmQtYWRkYy00ODhjLTlhZGQtMzg1NWQ1MGQ2ODNmIiwidCI6IjBjMjdlMDcwLTYxNTMtNDU3NS1hODQ3LWJiNzcxNWU0OWMwZiJ9)
+ ```
+    - Overview
+ ```
+ 
+ ![Overview](https://user-images.githubusercontent.com/123111536/217770468-3121fc9e-fc46-4e2b-a270-f4479fc9209b.jpg)
+ 
+  ```
+    - Analysis on Survey Type
+ ```
+ 
+ ![Analysis on Survey Type](https://user-images.githubusercontent.com/123111536/217770561-015ab71d-5991-4226-ab56-d62ea397261d.jpg)
+
+ ```
+    - Time KPI Dashboard
+ ```
+ 
+ ![Time KPI](https://user-images.githubusercontent.com/123111536/217770661-4987544c-d2c5-43c0-9d29-b02d86a11aaf.jpg)
 
 
 - **Customer Churn Analysis** (4 Dashboards):
