@@ -21,6 +21,27 @@
  ```
  
  ![Product KPI Dashboard](https://user-images.githubusercontent.com/123111536/213874176-bb8cd340-dc2d-45ff-858f-b0c86e448257.jpg)
+ 
+  - **HR Analytics** (3 Dashboards):
+
+  *View the Dashboards*: [HERE](https://app.powerbi.com/view?r=eyJrIjoiM2UyMmRmNTktM2RmMS00ZTAxLThiMTEtY2YyNjBkYzgyZmYwIiwidCI6IjBjMjdlMDcwLTYxNTMtNDU3NS1hODQ3LWJiNzcxNWU0OWMwZiJ9)
+ ```
+    - Numeric KPI Dashboard
+ ```
+ 
+ ![Numeric KPI](https://user-images.githubusercontent.com/123111536/217763628-81f90cb1-3f91-4c08-8a2a-dac9dabf196a.jpg)
+ 
+  ```
+    - Salary KPI Dashboard
+ ```
+ 
+ ![Salary KPI](https://user-images.githubusercontent.com/123111536/217763751-56ecc8f8-c830-4305-8268-fd9fef07fb4f.jpg)
+
+ ```
+    - Analytics Dashboard
+ ```
+ 
+ ![Analytics](https://user-images.githubusercontent.com/123111536/217763857-3f8dbb17-a0fd-469a-8214-13cb79c01512.jpg)
 
 
 - **Customer Churn Analysis** (4 Dashboards):
@@ -49,5 +70,7 @@
  ```
  
  ![Services Dashboard](https://user-images.githubusercontent.com/123111536/213874387-9e96f995-43ed-4919-8067-4bac2dd9a294.jpg)
+ 
+ 
 
    
